@@ -49,7 +49,7 @@ The hand-tracking system is designed to:
    ```
 3. Run the script:
    ```bash
-   python hand_tracking.py
+   python main.py
    ```
 
 ## Learning Outcomes
