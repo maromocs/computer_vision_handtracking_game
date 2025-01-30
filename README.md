@@ -1,4 +1,4 @@
-# Hand Tracking Project
+# Hand Tracking Project (Under development)
 
 This project implements a hand-tracking system, aimed at understanding the basics of machine learning by exploring its application in computer vision. As my first solo project, it serves as both a testing ground and a deep dive into the foundational concepts of ML.
 
